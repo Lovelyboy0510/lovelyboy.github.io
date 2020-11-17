@@ -15,13 +15,13 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Lovelyboy
-  tagline: Developer
+  tagline: 데이터 과학을 하고 싶은 풀스택 개발자
   date_format: "%b %-d, %Y"
-  sitemap: true # set to true to generate sitemap.xml content
-  search: true # set to true to enable searchbar
+  sitemap: false # set to true to generate sitemap.xml content
+  search: false # set to true to enable searchbar
   dark_mode: false # set to true to add dark mode toggle
   portfolio_image: "assets/portfolio.jpeg" # the path from the base directory of the site to the image to display (no / at the start)
-  html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
+  html_lang: "kr" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     #- home
     - page
@@ -29,15 +29,15 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    #github:  samarsault
+    github:  lovelyboy0510
     #linkedIn: in/samarsault
     #rss: rss
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: lovelyboy0510
     #pinterest: jekyll
     #youtube: jekyll
-    #facebook: jekyll
+    facebook: lovelyboy0510
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
